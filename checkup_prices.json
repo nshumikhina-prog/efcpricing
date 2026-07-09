@@ -1,0 +1,577 @@
+{
+  "generated_at": "2026-07-09T06:55:58.088466",
+  "programs": [
+    {
+      "internal_code": "12.1",
+      "name": "Скрининг женского здоровья",
+      "price_list": 28200.0,
+      "price_final": 20000.0,
+      "services": [
+        {
+          "medical_code": "В01.001.001",
+          "internal_code": "1.1.1",
+          "name": "Первичная консультация врача акушера-гинеколога (без УЗИ)",
+          "price_list": 7000.0,
+          "subblock": null
+        },
+        {
+          "medical_code": "А04.30.010",
+          "internal_code": "14.14",
+          "name": "Ультразвуковое исследование органов малого таза экспертное 3Д/4Д вне беременности",
+          "price_list": 6000.0,
+          "subblock": null
+        },
+        {
+          "medical_code": "А04.20.002",
+          "internal_code": "14.10",
+          "name": "Ультразвуковое исследование молочных желез и регионарных лимфоузлов",
+          "price_list": 5500.0,
+          "subblock": null
+        },
+        {
+          "medical_code": "А11.20.005",
+          "internal_code": "38.105",
+          "name": "Исследование отделяемого мочеполовых органов (женский мазок)",
+          "price_list": 700.0,
+          "subblock": null
+        },
+        {
+          "medical_code": "А08.20.017.002",
+          "internal_code": "60.823",
+          "name": "Жидкостная цитология с одновременным генотипированием ВПЧ (6, 11, 16, 18, 26, 31, 33, 35, 39, 44, 45, 51, 52, 53, 56, 58, 59, 66, 68, 73, 82 тип)",
+          "price_list": 4500.0,
+          "subblock": null
+        },
+        {
+          "medical_code": "В01.001.002",
+          "internal_code": "1.1.2",
+          "name": "Короткая консультация врача акушера-гинеколога (без УЗИ)",
+          "price_list": 4500.0,
+          "subblock": null
+        }
+      ]
+    },
+    {
+      "internal_code": "12.2",
+      "name": "Скрининг \"будущая мама\":",
+      "price_list": 35500.0,
+      "price_final": 26000.0,
+      "services": [
+        {
+          "medical_code": "В01.001.001",
+          "internal_code": "1.1.1",
+          "name": "Первичная консультация врача акушера-гинеколога (без УЗИ)",
+          "price_list": 7000.0,
+          "subblock": null
+        },
+        {
+          "medical_code": "А04.30.010",
+          "internal_code": "14.14",
+          "name": "Ультразвуковое исследование органов малого таза экспертное 3Д/4Д вне беременности",
+          "price_list": 6000.0,
+          "subblock": null
+        },
+        {
+          "medical_code": "А04.20.002",
+          "internal_code": "14.10",
+          "name": "Ультразвуковое исследование молочных желез и регионарных лимфоузлов",
+          "price_list": 5500.0,
+          "subblock": null
+        },
+        {
+          "medical_code": "А08.20.017.002",
+          "internal_code": "38.105",
+          "name": "Исследование отделяемого мочеполовых органов (женский мазок)",
+          "price_list": 700.0,
+          "subblock": null
+        },
+        {
+          "medical_code": "А11.20.005",
+          "internal_code": "60.823",
+          "name": "Жидкостная цитология с одновременным генотипированием ВПЧ (6, 11, 16, 18, 26, 31, 33, 35, 39, 44, 45, 51, 52, 53, 56, 58, 59, 66, 68, 73, 82 тип)",
+          "price_list": 4500.0,
+          "subblock": null
+        },
+        {
+          "medical_code": "А09.05.076",
+          "internal_code": "14.149",
+          "name": "Ферритин",
+          "price_list": 800.0,
+          "subblock": "Анализы крови на:"
+        },
+        {
+          "medical_code": "А09.05.065",
+          "internal_code": "15.104",
+          "name": "ТТГ",
+          "price_list": 600.0,
+          "subblock": "Анализы крови на:"
+        },
+        {
+          "medical_code": "А26.06.071.002",
+          "internal_code": "11.114",
+          "name": "Антитела к вирусу краснухи lgM,  IgM колич.",
+          "price_list": 900.0,
+          "subblock": "Анализы крови на:"
+        },
+        {
+          "medical_code": "А26.06.071.001",
+          "internal_code": "11.115",
+          "name": "Антитела к вирусу краснухи lgG, Rubella IgG колич.",
+          "price_list": 700.0,
+          "subblock": "Анализы крови на:"
+        },
+        {
+          "medical_code": "А26.06.049.001",
+          "internal_code": "11.200",
+          "name": "Антитела к ВИЧ 1, 2 типа,  антиген p24",
+          "price_list": 600.0,
+          "subblock": "Анализы крови на:"
+        },
+        {
+          "medical_code": "А26.06.082.003",
+          "internal_code": "11.202",
+          "name": "Сифилис, антитела к Treponema.pallidum lgM, lgG кач.",
+          "price_list": 800.0,
+          "subblock": "Анализы крови на:"
+        },
+        {
+          "medical_code": "А26.06.036.001",
+          "internal_code": "11.303",
+          "name": "Поверхностный антиген вируса гепатита В, HBsAg кач.",
+          "price_list": 500.0,
+          "subblock": "Анализы крови на:"
+        },
+        {
+          "medical_code": "А26.06.041",
+          "internal_code": "11.310",
+          "name": "Антитела к вирусу гепатита C, anti-HCV сумм.",
+          "price_list": 700.0,
+          "subblock": "Анализы крови на:"
+        },
+        {
+          "medical_code": "А09.05.225",
+          "internal_code": "14.150",
+          "name": "Антимюллеров гормон",
+          "price_list": 1700.0,
+          "subblock": "Анализы крови на:"
+        },
+        {
+          "medical_code": "В01.001.002",
+          "internal_code": "1.1.2",
+          "name": "Короткая консультация врача акушера-гинеколога (без УЗИ)",
+          "price_list": 4500.0,
+          "subblock": "Анализы крови на:"
+        }
+      ]
+    },
+    {
+      "internal_code": "12.3",
+      "name": "Скрининг мужского здоровья",
+      "price_list": 42100.0,
+      "price_final": 35700.0,
+      "services": [
+        {
+          "medical_code": "В01.053.001",
+          "internal_code": "1.3.1",
+          "name": "Консультация врача-уролога/андролога",
+          "price_list": 7000.0,
+          "subblock": null
+        },
+        {
+          "medical_code": "А04.28.003",
+          "internal_code": "14.38",
+          "name": "Ультразвуковое исследование органов мошонки с допплерометрией",
+          "price_list": 6000.0,
+          "subblock": null
+        },
+        {
+          "medical_code": "А04.21.001.001 А04.28.002.003",
+          "internal_code": "14.40",
+          "name": "Ультразвуковое исследование предстательной железы и мочевого пузыря трансректально",
+          "price_list": 6000.0,
+          "subblock": null
+        },
+        {
+          "medical_code": "А09.05.131",
+          "internal_code": "15.115",
+          "name": "ЛГ",
+          "price_list": 700.0,
+          "subblock": "Анализы крови и мочи на:"
+        },
+        {
+          "medical_code": "А09.05.132",
+          "internal_code": "15.116",
+          "name": "ФСГ",
+          "price_list": 700.0,
+          "subblock": "Анализы крови и мочи на:"
+        },
+        {
+          "medical_code": "А09.05.087",
+          "internal_code": "15.117",
+          "name": "Пролактин",
+          "price_list": 700.0,
+          "subblock": "Анализы крови и мочи на:"
+        },
+        {
+          "medical_code": "А09.05.154",
+          "internal_code": "15.118",
+          "name": "Эстрадиол",
+          "price_list": 700.0,
+          "subblock": "Анализы крови и мочи на:"
+        },
+        {
+          "medical_code": "А09.05..153",
+          "internal_code": "15.119",
+          "name": "Прогестерон",
+          "price_list": 700.0,
+          "subblock": "Анализы крови и мочи на:"
+        },
+        {
+          "medical_code": "А09.05.078",
+          "internal_code": "15.101",
+          "name": "Т3 свободный",
+          "price_list": 700.0,
+          "subblock": "Анализы крови и мочи на:"
+        },
+        {
+          "medical_code": "А09.05.063",
+          "internal_code": "15.103",
+          "name": "Т4 свободный",
+          "price_list": 700.0,
+          "subblock": "Анализы крови и мочи на:"
+        },
+        {
+          "medical_code": "А09.05.065",
+          "internal_code": "15.104",
+          "name": "ТТГ",
+          "price_list": 600.0,
+          "subblock": "Анализы крови и мочи на:"
+        },
+        {
+          "medical_code": "А09.05.078",
+          "internal_code": "15.110",
+          "name": "Тестостерон",
+          "price_list": 700.0,
+          "subblock": "Анализы крови и мочи на:"
+        },
+        {
+          "medical_code": "А09.05.078.001",
+          "internal_code": "15.111",
+          "name": "Тестостерон свободный",
+          "price_list": 1400.0,
+          "subblock": "Анализы крови и мочи на:"
+        },
+        {
+          "medical_code": "В03.016.002 В 03.016.004 А26.06.049.001 А26.06.082.003 А26.06.041 В03.016.006",
+          "internal_code": "61.611",
+          "name": "Общий анализ крови с лейкоформулой + СОЭ; Аланинаминотрансфераза (АЛТ), Аспартатаминотрансфераза (АСТ), Общий белок, Креатинин, Мочевина, Глюкоза, Билирубин прямой, Билирубин общий; Поверхностный антиген вируса гепатита В, HBsAg, Антитела к вирусу гепатита C, anti-HCV сумм., Сифилис RPR, антикардиолипиновый тест, Антитела к ВИЧ 1, 2 типа; Общий анализ мочи",
+          "price_list": 3200.0,
+          "subblock": "Анализы крови и мочи на:"
+        },
+        {
+          "medical_code": "В03.016.004",
+          "internal_code": "42.127",
+          "name": "Липидный профиль: Холестерин общий, Триглицериды, Холестерин ЛПВП, Холестерин ЛПНП, Холестерин ЛПОНП, Индекс атерогенности",
+          "price_list": 1700.0,
+          "subblock": "Анализы крови и мочи на:"
+        },
+        {
+          "medical_code": "А16.21.007",
+          "internal_code": "42.103",
+          "name": "ПЦР-скрининг (колич): Chlamydia trachomatis, Neisseria gonorrhoeae, Mycoplasma genitalium, Mycoplasma hominis, Ureaplasma urealyticum, Trichomonas vaginalis",
+          "price_list": 3600.0,
+          "subblock": "Анализы крови и мочи на:"
+        },
+        {
+          "medical_code": "В01.053.001",
+          "internal_code": "1.3.2",
+          "name": "Консультация врача-уролога/андролога",
+          "price_list": 7000.0,
+          "subblock": "Анализы крови и мочи на:"
+        }
+      ]
+    },
+    {
+      "internal_code": "12.4",
+      "name": "Скрининг репродуктивного здоровья мужчины, до 40 лет:",
+      "price_list": 46500.0,
+      "price_final": 39500.0,
+      "services": [
+        {
+          "medical_code": "В01.053.001",
+          "internal_code": "1.3.1",
+          "name": "Консультация врача-андролога",
+          "price_list": 7000.0,
+          "subblock": null
+        },
+        {
+          "medical_code": "В03.053.002",
+          "internal_code": "13.1",
+          "name": "Спермограмма",
+          "price_list": 4000.0,
+          "subblock": null
+        },
+        {
+          "medical_code": "А09.20.12",
+          "internal_code": "13.2",
+          "name": "MAR-тест",
+          "price_list": 2200.0,
+          "subblock": null
+        },
+        {
+          "medical_code": "А04.28.003",
+          "internal_code": "14.38",
+          "name": "Ультразвуковое исследование органов мошонки с допплерометрией",
+          "price_list": 6000.0,
+          "subblock": null
+        },
+        {
+          "medical_code": "А04.21.001.001 А04.28.002.003",
+          "internal_code": "14.40",
+          "name": "Ультразвуковое исследование предстательной железы и мочевого пузыря трансректально",
+          "price_list": 6000.0,
+          "subblock": null
+        },
+        {
+          "medical_code": "А09.05.131",
+          "internal_code": "15.115",
+          "name": "ЛГ",
+          "price_list": 700.0,
+          "subblock": "Анализы крови на:"
+        },
+        {
+          "medical_code": "А09.05.132",
+          "internal_code": "15.116",
+          "name": "ФСГ",
+          "price_list": 700.0,
+          "subblock": "Анализы крови на:"
+        },
+        {
+          "medical_code": "А09.05.087",
+          "internal_code": "15.117",
+          "name": "Пролактин",
+          "price_list": 700.0,
+          "subblock": "Анализы крови на:"
+        },
+        {
+          "medical_code": "А09.05.154",
+          "internal_code": "15.118",
+          "name": "Эстрадиол",
+          "price_list": 700.0,
+          "subblock": "Анализы крови на:"
+        },
+        {
+          "medical_code": "А09.05..153",
+          "internal_code": "15.119",
+          "name": "Прогестерон",
+          "price_list": 700.0,
+          "subblock": "Анализы крови на:"
+        },
+        {
+          "medical_code": "А09.05.078",
+          "internal_code": "15.110",
+          "name": "Тестостерон",
+          "price_list": 700.0,
+          "subblock": "Анализы крови на:"
+        },
+        {
+          "medical_code": "А09.05.078.001",
+          "internal_code": "15.111",
+          "name": "Тестостерон свободный",
+          "price_list": 1400.0,
+          "subblock": "Анализы крови на:"
+        },
+        {
+          "medical_code": "А09.05.203",
+          "internal_code": "14.154",
+          "name": "Ингибин В",
+          "price_list": 3100.0,
+          "subblock": "Анализы крови на:"
+        },
+        {
+          "medical_code": "А09.05.203",
+          "internal_code": "15.121",
+          "name": "Глобулин, связывающий половые гормоны, SHBG",
+          "price_list": 700.0,
+          "subblock": "Анализы крови на:"
+        },
+        {
+          "medical_code": "А09.05.160",
+          "internal_code": "15.123",
+          "name": "Дегидроэпиандростерона сульфат, ДГЭА-S",
+          "price_list": 700.0,
+          "subblock": "Анализы крови на:"
+        },
+        {
+          "medical_code": "А09.05.149",
+          "internal_code": "15.104",
+          "name": "ТТГ",
+          "price_list": 600.0,
+          "subblock": "Анализы крови на:"
+        },
+        {
+          "medical_code": "А16.21.007",
+          "internal_code": "42.103",
+          "name": "ПЦР-скрининг (колич): Chlamydia trachomatis, Neisseria gonorrhoeae, Mycoplasma genitalium, Mycoplasma hominis, Ureaplasma urealyticum, Trichomonas vaginalis",
+          "price_list": 3600.0,
+          "subblock": "Анализы крови на:"
+        },
+        {
+          "medical_code": "В01.053.001",
+          "internal_code": "1.3.1",
+          "name": "Консультация врача-андролога",
+          "price_list": 7000.0,
+          "subblock": "Анализы крови на:"
+        }
+      ]
+    },
+    {
+      "internal_code": "12.5",
+      "name": "Скрининг репродуктивного здоровья мужчины, 40 лет плюс:",
+      "price_list": 67500.0,
+      "price_final": 57500.0,
+      "services": [
+        {
+          "medical_code": "В01.053.001",
+          "internal_code": "1.3.1",
+          "name": "Консультация врача-андролога",
+          "price_list": 7000.0,
+          "subblock": null
+        },
+        {
+          "medical_code": "В03.053.002",
+          "internal_code": "13.1",
+          "name": "Спермограмма",
+          "price_list": 4000.0,
+          "subblock": null
+        },
+        {
+          "medical_code": "А09.20.12",
+          "internal_code": "13.2",
+          "name": "MAR-тест",
+          "price_list": 2200.0,
+          "subblock": null
+        },
+        {
+          "medical_code": "А04.28.003",
+          "internal_code": "14.38",
+          "name": "Ультразвуковое исследование органов мошонки с допплерометрией",
+          "price_list": 6000.0,
+          "subblock": null
+        },
+        {
+          "medical_code": "А04.21.001.001 А04.28.002.003",
+          "internal_code": "14.40",
+          "name": "Ультразвуковое исследование предстательной железы и мочевого пузыря трансректально",
+          "price_list": 6000.0,
+          "subblock": null
+        },
+        {
+          "medical_code": "А27.21.001",
+          "internal_code": "13.3",
+          "name": "Определение индекса фрагментации ДНК сперматозоидов",
+          "price_list": 14000.0,
+          "subblock": null
+        },
+        {
+          "medical_code": "А09.05.131",
+          "internal_code": "15.115",
+          "name": "ЛГ",
+          "price_list": 700.0,
+          "subblock": "Анализы крови на:"
+        },
+        {
+          "medical_code": "А09.05.132",
+          "internal_code": "15.116",
+          "name": "ФСГ",
+          "price_list": 700.0,
+          "subblock": "Анализы крови на:"
+        },
+        {
+          "medical_code": "А09.05.087",
+          "internal_code": "15.117",
+          "name": "Пролактин",
+          "price_list": 700.0,
+          "subblock": "Анализы крови на:"
+        },
+        {
+          "medical_code": "А09.05.154",
+          "internal_code": "15.118",
+          "name": "Эстрадиол",
+          "price_list": 700.0,
+          "subblock": "Анализы крови на:"
+        },
+        {
+          "medical_code": "А09.05.153",
+          "internal_code": "15.119",
+          "name": "Прогестерон",
+          "price_list": 700.0,
+          "subblock": "Анализы крови на:"
+        },
+        {
+          "medical_code": "А09.05.078",
+          "internal_code": "15.110",
+          "name": "Тестостерон",
+          "price_list": 700.0,
+          "subblock": "Анализы крови на:"
+        },
+        {
+          "medical_code": "А09.05.078.001",
+          "internal_code": "15.111",
+          "name": "Тестостерон свободный",
+          "price_list": 1400.0,
+          "subblock": "Анализы крови на:"
+        },
+        {
+          "medical_code": "А09.05.203",
+          "internal_code": "14.154",
+          "name": "Ингибин В",
+          "price_list": 3100.0,
+          "subblock": "Анализы крови на:"
+        },
+        {
+          "medical_code": "А09.05.203",
+          "internal_code": "15.121",
+          "name": "Глобулин, связывающий половые гормоны, SHBG",
+          "price_list": 700.0,
+          "subblock": "Анализы крови на:"
+        },
+        {
+          "medical_code": "А09.05.160",
+          "internal_code": "15.123",
+          "name": "Дегидроэпиандростерона сульфат, ДГЭА-S",
+          "price_list": 700.0,
+          "subblock": "Анализы крови на:"
+        },
+        {
+          "medical_code": "А09.05.149",
+          "internal_code": "15.104",
+          "name": "ТТГ",
+          "price_list": 600.0,
+          "subblock": "Анализы крови на:"
+        },
+        {
+          "medical_code": "А16.21.007",
+          "internal_code": "42.103",
+          "name": "ПЦР-скрининг (колич): Chlamydia trachomatis, Neisseria gonorrhoeae, Mycoplasma genitalium, Mycoplasma hominis, Ureaplasma urealyticum, Trichomonas vaginalis",
+          "price_list": 3600.0,
+          "subblock": "Анализы крови на:"
+        },
+        {
+          "medical_code": "А12.05.013",
+          "internal_code": "40.104",
+          "name": "Анализ кариотипа (1 чел.)",
+          "price_list": 7000.0,
+          "subblock": "Анализы крови на:"
+        },
+        {
+          "medical_code": "В01.053.001",
+          "internal_code": "1.3.1",
+          "name": "Консультация врача-андролога",
+          "price_list": 7000.0,
+          "subblock": "Анализы крови на:"
+        }
+      ]
+    }
+  ]
+}
